@@ -1,3 +1,8 @@
+
+![App Screenshot](https://github.com/nikka471/ChatUp/blob/0ef9d6c18010b846e53c2e76961ec3f20a0d397e/WhatsApp%20Image%202025-09-18%20at%2011.42.16.jpeg?raw=true)
+
+
+
 # ChatUp - WhatsApp-like Minimal Chat App
 
 A minimal WhatsApp-like Android application built using **Kotlin** and **Firebase**, supporting one-to-one and group chat (text + audio), user authentication, and admin-controlled group/user management.
